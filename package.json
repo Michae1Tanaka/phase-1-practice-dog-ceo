@@ -1,5 +1,10 @@
 {
   "name": "phase-1-practice-dog-ceo",
+  "quokka": {
+    "babel": {
+      "path": "...babel-core"
+    }
+  },
   "version": "1.0.0",
   "description": "practice fetching from an api, listening for user events, updating the dom",
   "main": "index.js",
